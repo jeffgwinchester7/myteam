@@ -18,6 +18,8 @@ h2 {
 
 h3 {
   margin-bottom: 50px;
+  background-color:blue;
+  color: white;
 }
 
 p {
@@ -59,6 +61,10 @@ footer {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.headercolor{
+background-color:blue;
 }
 
 /*! End image pages*/
