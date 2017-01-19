@@ -1,0 +1,76 @@
+body {
+  margin-top: 0px;
+	margin-bottom: 5px;
+  font-family: 'Slabo 27px', serif;
+  background-color: white;
+  opacity: 0.8;
+}
+
+h1 {
+  font-size: 20px;
+  background: none;
+  background-size: cover;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  margin-bottom: 50px;
+}
+
+p {
+  font-size: 10px;
+}
+
+
+/*! For Wedding Party */
+.img-center {
+	margin: 0 auto;
+}
+
+footer {
+    margin: 50px 0;
+}
+/*! End Wedding Party */
+
+
+/*! For image pages*/
+.full {
+  background: url(https://s29.postimg.org/bg38umvyf/DSC01698_1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.fullvenue {
+  background: url(http://static.wixstatic.com/media/4f70fd_d1b48627b0204769b65c9cf65b5ef498.jpg_srz_960_640_85_22_0.50_1.20_0.00_jpg_srz) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.fullwhere-to-stay {
+  background: url(http://www.hotelvanzandt.com/images/1700-960/geraldines-outdoor-bar-and-pool-view-a77c1803.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/*! End image pages*/
+
+#date{
+  color: #29ddbb;
+}
+
+#logisticsbutton{
+  margin-bottom: 5px;
+}
+
+#aboutopacity{
+  opacity: 1.2;
+}
